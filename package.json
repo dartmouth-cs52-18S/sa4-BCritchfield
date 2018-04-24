@@ -1,8 +1,8 @@
 {
-  "name": "starterpack-BCritchfield",
+  "name": "sa4-BCritchfield",
   "version": "1.0.0",
   "main": "src/index.js",
-  "repository": "https://github.com/dartmouth-cs52-18S/starterpack-BCritchfield.git",
+  "repository": "https://github.com/dartmouth-cs52-18S/sa4-BCritchfield.git",
   "author": "Brittany Critchfield <brittany.critchfield.20@dartmouth.edu>",
   "license": "MIT",
   "scripts": {
